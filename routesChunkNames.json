@@ -1,0 +1,207 @@
+{
+  "/__docusaurus/debug-5ff": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/config-5ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/content-a2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    },
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+  },
+  "/__docusaurus/debug/globalData-c3c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/metadata-156": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/registry-88c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/routes-000": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/markdown-page-3d7": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---markdown-pagea-74-7b5"
+    },
+    "content": "content---markdown-page-393-028"
+  },
+  "/my-react-page-f2d": {
+    "__comp": "__comp---site-src-pages-my-react-page-jsf-85-e77",
+    "__context": {
+      "plugin": "plugin---markdown-pagea-74-7b5"
+    },
+    "config": "config---my-react-page-5-e-9-dcc"
+  },
+  "/docs-6ec": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---docsaba-d7c"
+    }
+  },
+  "/docs-59c": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---docs-005-788"
+  },
+  "/docs-586": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/book-cca": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-book-8-af-464"
+  },
+  "/docs/ch01-introduction/1.1-overview-916": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ch-01-introduction-1-1-overview-6-e-3-6d1"
+  },
+  "/docs/ch01-introduction/1.2-history-b50": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ch-01-introduction-1-2-history-339-3b2"
+  },
+  "/docs/ch02-foundations/2.1-introduction-bff": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ch-02-foundations-2-1-introduction-752-f3c"
+  },
+  "/docs/ch03-sensors/3.1-sensor-types-b9c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ch-03-sensors-3-1-sensor-typesc-0-a-972"
+  },
+  "/docs/ch04-actuators/4.1-actuator-types-f0b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ch-04-actuators-4-1-actuator-types-068-0a6"
+  },
+  "/docs/ch05-control-systems/5.1-control-theory-d5e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ch-05-control-systems-5-1-control-theoryf-98-cef"
+  },
+  "/docs/ch06-machine-learning/6.1-ml-for-robotics-a2e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ch-06-machine-learning-6-1-ml-for-robotics-071-612"
+  },
+  "/docs/ch07-computer-vision/7.1-vision-systems-c89": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ch-07-computer-vision-7-1-vision-systems-624-b73"
+  },
+  "/docs/ch08-natural-language-processing/8.1-nlp-in-robotics-5de": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ch-08-natural-language-processing-8-1-nlp-in-roboticsa-7-a-bf8"
+  },
+  "/docs/ch09-motion-planning/9.1-motion-planning-algorithms-9e6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ch-09-motion-planning-9-1-motion-planning-algorithms-235-4e2"
+  },
+  "/docs/ch10-path-planning/10.1-path-planning-algorithms-528": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ch-10-path-planning-10-1-path-planning-algorithmsffa-59b"
+  },
+  "/docs/ch11-human-robot-interaction/11.1-hri-principles-de2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ch-11-human-robot-interaction-11-1-hri-principles-7-ca-4bd"
+  },
+  "/docs/ch12-robotics-software/12.1-robotics-frameworks-c94": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ch-12-robotics-software-12-1-robotics-frameworksa-06-8cd"
+  },
+  "/docs/ch13-robotics-hardware/13.1-robotics-hardware-components-4cb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ch-13-robotics-hardware-13-1-robotics-hardware-components-993-acc"
+  },
+  "/docs/ch14-manufacturing-robotics/14.1-industrial-robotics-daa": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ch-14-manufacturing-robotics-14-1-industrial-roboticsbb-6-a1a"
+  },
+  "/docs/ch15-healthcare-robotics/15.1-medical-robotics-51c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ch-15-healthcare-robotics-15-1-medical-roboticsc-91-bff"
+  },
+  "/docs/ch16-agricultural-robotics/16.1-agricultural-robotics-698": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ch-16-agricultural-robotics-16-1-agricultural-robotics-469-27d"
+  },
+  "/docs/ch17-autonomous-vehicles/17.1-autonomous-vehicles-68f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ch-17-autonomous-vehicles-17-1-autonomous-vehiclesfa-2-724"
+  },
+  "/docs/ch18-ai-safety/18.1-ai-safety-considerations-467": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ch-18-ai-safety-18-1-ai-safety-considerationse-08-895"
+  },
+  "/docs/ch19-future-of-robotics/19.1-future-trends-3fe": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ch-19-future-of-robotics-19-1-future-trendsaf-7-b4c"
+  },
+  "/docs/ch20-conclusion/20.1-conclusion-372": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ch-20-conclusion-20-1-conclusion-7-d-5-fed"
+  },
+  "/docs/intro-23f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-introe-03-d2a"
+  },
+  "/docs/introduction-to-physical-ai-1e3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-introduction-to-physical-ai-125-018"
+  },
+  "/docs/tutorial-basics/congratulations-456": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-congratulations-64-b-8eb"
+  },
+  "/docs/tutorial-basics/create-a-blog-post-1d8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-create-a-blog-post-1-dc-785"
+  },
+  "/docs/tutorial-basics/create-a-document-a5a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-create-a-document-485-482"
+  },
+  "/docs/tutorial-basics/create-a-page-2fd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-create-a-pagecc-9-a06"
+  },
+  "/docs/tutorial-basics/deploy-your-site-7e8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-deploy-your-site-88-a-f3b"
+  },
+  "/docs/tutorial-basics/markdown-features-727": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-markdown-featuresa-39-028"
+  },
+  "/docs/tutorial-extras/manage-docs-versions-e54": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-extras-manage-docs-versions-80-a-d6a"
+  },
+  "/docs/tutorial-extras/translate-your-site-888": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-extras-translate-your-site-58-f-9dd"
+  },
+  "/-e5f": {
+    "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
+    "__context": {
+      "plugin": "plugin---markdown-pagea-74-7b5"
+    },
+    "config": "config---my-react-page-5-e-9-dcc"
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "book",
+              "path": "/docs/book",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ch01-introduction/1.1-overview",
+              "path": "/docs/ch01-introduction/1.1-overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ch01-introduction/1.2-history",
+              "path": "/docs/ch01-introduction/1.2-history",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ch02-foundations/2.1-introduction",
+              "path": "/docs/ch02-foundations/2.1-introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ch03-sensors/3.1-sensor-types",
+              "path": "/docs/ch03-sensors/3.1-sensor-types",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ch04-actuators/4.1-actuator-types",
+              "path": "/docs/ch04-actuators/4.1-actuator-types",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ch05-control-systems/5.1-control-theory",
+              "path": "/docs/ch05-control-systems/5.1-control-theory",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ch06-machine-learning/6.1-ml-for-robotics",
+              "path": "/docs/ch06-machine-learning/6.1-ml-for-robotics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ch07-computer-vision/7.1-vision-systems",
+              "path": "/docs/ch07-computer-vision/7.1-vision-systems",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ch08-natural-language-processing/8.1-nlp-in-robotics",
+              "path": "/docs/ch08-natural-language-processing/8.1-nlp-in-robotics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ch09-motion-planning/9.1-motion-planning-algorithms",
+              "path": "/docs/ch09-motion-planning/9.1-motion-planning-algorithms",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ch10-path-planning/10.1-path-planning-algorithms",
+              "path": "/docs/ch10-path-planning/10.1-path-planning-algorithms",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ch11-human-robot-interaction/11.1-hri-principles",
+              "path": "/docs/ch11-human-robot-interaction/11.1-hri-principles",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ch12-robotics-software/12.1-robotics-frameworks",
+              "path": "/docs/ch12-robotics-software/12.1-robotics-frameworks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ch13-robotics-hardware/13.1-robotics-hardware-components",
+              "path": "/docs/ch13-robotics-hardware/13.1-robotics-hardware-components",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ch14-manufacturing-robotics/14.1-industrial-robotics",
+              "path": "/docs/ch14-manufacturing-robotics/14.1-industrial-robotics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ch15-healthcare-robotics/15.1-medical-robotics",
+              "path": "/docs/ch15-healthcare-robotics/15.1-medical-robotics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ch16-agricultural-robotics/16.1-agricultural-robotics",
+              "path": "/docs/ch16-agricultural-robotics/16.1-agricultural-robotics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ch17-autonomous-vehicles/17.1-autonomous-vehicles",
+              "path": "/docs/ch17-autonomous-vehicles/17.1-autonomous-vehicles",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ch18-ai-safety/18.1-ai-safety-considerations",
+              "path": "/docs/ch18-ai-safety/18.1-ai-safety-considerations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ch19-future-of-robotics/19.1-future-trends",
+              "path": "/docs/ch19-future-of-robotics/19.1-future-trends",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ch20-conclusion/20.1-conclusion",
+              "path": "/docs/ch20-conclusion/20.1-conclusion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction-to-physical-ai",
+              "path": "/docs/introduction-to-physical-ai",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/congratulations",
+              "path": "/docs/tutorial-basics/congratulations"
+            },
+            {
+              "id": "tutorial-basics/create-a-blog-post",
+              "path": "/docs/tutorial-basics/create-a-blog-post"
+            },
+            {
+              "id": "tutorial-basics/create-a-document",
+              "path": "/docs/tutorial-basics/create-a-document"
+            },
+            {
+              "id": "tutorial-basics/create-a-page",
+              "path": "/docs/tutorial-basics/create-a-page"
+            },
+            {
+              "id": "tutorial-basics/deploy-your-site",
+              "path": "/docs/tutorial-basics/deploy-your-site"
+            },
+            {
+              "id": "tutorial-basics/markdown-features",
+              "path": "/docs/tutorial-basics/markdown-features"
+            },
+            {
+              "id": "tutorial-extras/manage-docs-versions",
+              "path": "/docs/tutorial-extras/manage-docs-versions"
+            },
+            {
+              "id": "tutorial-extras/translate-your-site",
+              "path": "/docs/tutorial-extras/translate-your-site"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "Welcome"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
