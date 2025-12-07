@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "SlashCommand(/sp.specify)",
+      "Bash(git checkout:*)",
+      "Bash(.specify/scripts/bash/create-new-feature.sh:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

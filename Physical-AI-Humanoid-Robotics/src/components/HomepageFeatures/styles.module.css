@@ -1,0 +1,36 @@
+.features {
+  padding: 4rem 1rem;
+  text-align: center;
+  background-color: #f9fafb; /* soft background */
+}
+
+.featureSvg {
+  width: 120px;
+  height: 120px;
+  margin-bottom: 1rem;
+  fill: var(--ifm-color-primary);
+  transition: transform 0.3s ease, fill 0.3s ease;
+}
+
+.featureSvg:hover {
+  transform: scale(1.1);
+  fill: var(--ifm-color-primary-dark);
+}
+
+.features .row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.features .col {
+  flex: 1 1 300px;
+  max-width: 360px;
+}
+
+.features p {
+  color: #4b5563;
+  font-size: 1rem;
+  margin-top: 0.5rem;
+}
