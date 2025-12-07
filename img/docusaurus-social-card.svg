@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#003366"/>
+  
+  <!-- Title -->
+  <text x="600" y="120" font-family="Arial, sans-serif" font-size="48" fill="white" text-anchor="middle">Physical AI &amp; Humanoid Robotics</text>
+  
+  <!-- Robot figure -->
+  <g transform="translate(600, 350)">
+    <!-- Robot body -->
+    <rect x="-35" y="0" width="70" height="80" rx="10" stroke="#25c2a0" stroke-width="4" fill="#f0f8ff"/>
+    
+    <!-- Robot head -->
+    <rect x="-20" y="-40" width="40" height="40" rx="8" stroke="#25c2a0" stroke-width="3" fill="#f0f8ff"/>
+    
+    <!-- Robot eyes -->
+    <circle cx="-10" cy="-25" r="5" fill="#25c2a0"/>
+    <circle cx="10" cy="-25" r="5" fill="#25c2a0"/>
+    
+    <!-- Arms -->
+    <line x1="-35" y1="20" x2="-70" y2="20" stroke="#25c2a0" stroke-width="6"/>
+    <line x1="35" y1="20" x2="70" y2="20" stroke="#25c2a0" stroke-width="6"/>
+    
+    <!-- Hands -->
+    <circle cx="-75" cy="20" r="8" stroke="#25c2a0" stroke-width="3" fill="#f0f8ff"/>
+    <circle cx="75" cy="20" r="8" stroke="#25c2a0" stroke-width="3" fill="#f0f8ff"/>
+    
+    <!-- Legs -->
+    <line x1="-20" y1="80" x2="-20" y2="130" stroke="#25c2a0" stroke-width="6"/>
+    <line x1="20" y1="80" x2="20" y2="130" stroke="#25c2a0" stroke-width="6"/>
+    
+    <!-- Feet -->
+    <rect x="-25" y="130" width="10" height="10" rx="3" stroke="#25c2a0" stroke-width="3" fill="#f0f8ff"/>
+    <rect x="15" y="130" width="10" height="10" rx="3" stroke="#25c2a0" stroke-width="3" fill="#f0f8ff"/>
+    
+    <!-- Neural network in background -->
+    <circle cx="-90" cy="-90" r="15" fill="#25c2a0" fill-opacity="0.3" stroke="#25c2a0" stroke-width="2"/>
+    <circle cx="-50" cy="-110" r="12" fill="#25c2a0" fill-opacity="0.3" stroke="#25c2a0" stroke-width="2"/>
+    <circle cx="-10" cy="-80" r="10" fill="#25c2a0" fill-opacity="0.3" stroke="#25c2a0" stroke-width="2"/>
+    <circle cx="30" cy="-100" r="14" fill="#25c2a0" fill-opacity="0.3" stroke="#25c2a0" stroke-width="2"/>
+    <circle cx="70" cy="-70" r="11" fill="#25c2a0" fill-opacity="0.3" stroke="#25c2a0" stroke-width="2"/>
+    <circle cx="100" cy="-100" r="13" fill="#25c2a0" fill-opacity="0.3" stroke="#25c2a0" stroke-width="2"/>
+    
+    <line x1="-90" y1="-90" x2="-50" y2="-110" stroke="#25c2a0" stroke-width="2"/>
+    <line x1="-50" y1="-110" x2="-10" y2="-80" stroke="#25c2a0" stroke-width="2"/>
+    <line x1="-10" y1="-80" x2="30" y2="-100" stroke="#25c2a0" stroke-width="2"/>
+    <line x1="30" y1="-100" x2="70" y2="-70" stroke="#25c2a0" stroke-width="2"/>
+    <line x1="70" y1="-70" x2="100" y2="-100" stroke="#25c2a0" stroke-width="2"/>
+  </g>
+  
+  <!-- Book icon in corner -->
+  <g transform="translate(1000, 100)">
+    <rect x="-40" y="0" width="80" height="100" rx="5" stroke="#25c2a0" stroke-width="3" fill="#f0f8ff"/>
+    <rect x="-35" y="10" width="70" height="80" rx="3" fill="white"/>
+    
+    <!-- Lines for text -->
+    <rect x="-30" y="20" width="60" height="5" rx="2" fill="#25c2a0"/>
+    <rect x="-30" y="30" width="50" height="5" rx="2" fill="#25c2a0"/>
+    <rect x="-30" y="40" width="60" height="5" rx="2" fill="#25c2a0"/>
+    <rect x="-30" y="50" width="40" height="5" rx="2" fill="#25c2a0"/>
+    <rect x="-30" y="60" width="60" height="5" rx="2" fill="#25c2a0"/>
+    <rect x="-30" y="70" width="45" height="5" rx="2" fill="#25c2a0"/>
+  </g>
+</svg>

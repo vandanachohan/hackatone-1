@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkphysical_ai_robotics_textbook=globalThis.webpackChunkphysical_ai_robotics_textbook||[]).push([[224],{1976:(a,i,s)=>{s.r(i),s.d(i,{default:()=>t});s(6540);var e=s(1656),c=s(4848);function t(){return(0,c.jsxs)(e.A,{children:[(0,c.jsx)("h1",{children:"My React page"}),(0,c.jsx)("p",{children:"This is a React page"})]})}}}]);
