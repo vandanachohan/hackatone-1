@@ -6,7 +6,9 @@ This repository includes book chapters, diagrams, agent workflows, tutorials, an
 
 Built with: **Next.js • TailwindCSS • Docusaurus • Claude Code • Qwen • OpenAI Agents**
 
----
+![Uploading book.PNG…]()
+![Uploading intro-book.PNG…]()
+
 
 ## 🚀 Overview
 
@@ -86,7 +88,8 @@ A clean and responsive website to browse the entire textbook.
 - **TypeScript**  
 - **GitHub Actions (CI/CD)**  
 
----
+YouTube Demo Video Presentation Link
+https://youtu.be/LxsXVjans14
 
 ## 🧪 How to Run
 
@@ -112,14 +115,10 @@ concurrently "npm run dev"
 
 🌐 View the Textbook Online
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/33323e4b-bf8e-4275-ab0e-42f648c4333b" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4371c733-e618-4978-8c48-c2249f8af5d8" />
-
 GitHub Pages deployment:
 👉 https://vandanachohan.github.io/hackatone-1/
 
-YouTube Demo Video Presentation Link
-https://youtu.be/LxsXVjans14
+
 
 (Available after GitHub Actions build completes.)
 
