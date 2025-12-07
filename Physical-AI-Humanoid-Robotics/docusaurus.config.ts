@@ -15,15 +15,15 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://vandanachohan.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/hackatone-1/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'vandanachohan', // Usually your GitHub org/user name.
+  projectName: 'hackatone-1', // Usually your repo name.
 
   onBrokenLinks: 'ignore',
 
@@ -129,7 +129,7 @@ const config: Config = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/specifyplus/hackatone-1',
+              href: 'https://github.com/vandanachohan/hackatone-1',
             },
             {
               label: 'Spec-Kit Plus',
