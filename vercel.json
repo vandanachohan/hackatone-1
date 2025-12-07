@@ -11,11 +11,17 @@
   ],
   "routes": [
     {
-      "src": "/(.*)",
+      "src": "/(.+)",
       "dest": "/Physical-AI-Humanoid-Robotics/build/$1"
+    },
+    {
+      "src": "/",
+      "dest": "/Physical-AI-Humanoid-Robotics/build/index.html"
     }
   ],
   "github": {
     "silent": true
-  }
+  },
+  "installCommand": "cd Physical-AI-Humanoid-Robotics && npm install && node ../update-docusaurus-config.js",
+  "buildCommand": "cd Physical-AI-Humanoid-Robotics && npm run build"
 }
