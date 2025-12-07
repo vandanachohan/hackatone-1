@@ -1,0 +1,3 @@
+@echo off
+echo Starting Book Backend Application...
+node server.js
