@@ -89,16 +89,25 @@ TypeScript — core codebase
 GitHub Actions — automation
 
 🧪 How to Run
-# Install dependencies
+# Install dependencies for both backend and frontend
 npm install
 
-# Start Docusaurus docs (in Physical-AI-Humanoid-Robotics directory)
+# For the backend server:
+npm run start  # Runs the Express.js server on port 3000
+
+# For the Docusaurus textbook frontend (in a separate terminal):
 cd Physical-AI-Humanoid-Robotics
 npm install
-npm run start
+npm run start  # Runs the Docusaurus site on port 3000
 
-# Start Next.js website
-npm run dev
+# To run both simultaneously, you'll need to change one of the ports
+# Or use a process manager like concurrently:
+
+# Install concurrently globally
+npm install -g concurrently
+
+# Run both at the same time (in root directory)
+concurrently "npm run dev" "cd Physical-AI-Humanoid-Robotics && npm run start"
 
 🌐 View the Textbook Online
 The textbook is deployed to GitHub Pages and can be viewed at:
