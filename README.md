@@ -92,11 +92,19 @@ GitHub Actions — automation
 # Install dependencies
 npm install
 
-# Start Docusaurus docs
+# Start Docusaurus docs (in Physical-AI-Humanoid-Robotics directory)
+cd Physical-AI-Humanoid-Robotics
+npm install
 npm run start
 
 # Start Next.js website
 npm run dev
+
+🌐 View the Textbook Online
+The textbook is deployed to GitHub Pages and can be viewed at:
+https://vandanachohan.github.io/hackatone-1/
+
+Note: The site will be available after the GitHub Actions workflow completes.
 
 🤝 Contributing
 
