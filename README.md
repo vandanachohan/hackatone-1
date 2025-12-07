@@ -1,140 +1,148 @@
-📘 Physical AI & Humanoid Robotics
-AI-Native Textbook • Multi-Agent System • Robotics Learning Platform
+ # 📘 Physical AI & Humanoid Robotics  
+**AI-Native Textbook • Multi-Agent System • Robotics Learning Platform**
 
-A modern, AI-powered textbook project focused on Physical AI, Humanoid Robotics, and Embodied Intelligence.
-This repository includes the complete book structure, chapters, diagrams, agent workflows, tutorials, and automation tools used to build and maintain the textbook.
+A modern, AI-powered textbook project focused on **Physical AI**, **Humanoid Robotics**, and **Embodied Intelligence**.  
+This repository includes book chapters, diagrams, agent workflows, tutorials, and automation tools used to build and maintain the textbook.
 
-Built with: Next.js, TailwindCSS, Docusaurus, Claude Code, Qwen, and OpenAI Agents.
+Built with: **Next.js • TailwindCSS • Docusaurus • Claude Code • Qwen • OpenAI Agents**
 
-🚀 Overview
+---
 
-The Physical AI & Humanoid Robotics Textbook Project is a fully automated learning system designed to help students master:
+## 🚀 Overview
 
-🤖 Humanoid Robotics
+The **Physical AI & Humanoid Robotics Textbook Project** is a fully automated learning system that helps students master:
 
-🧠 Embodied & Physical AI
+- 🤖 Humanoid Robotics  
+- 🧠 Embodied & Physical AI  
+- ⚙️ Actuators, Sensors & Mechatronics  
+- 🦾 Locomotion, Balance & Movement  
+- 🪫 Energy & Power Design  
+- 🧩 Robotics Algorithms & Control  
+- 💡 Intelligent Agents & Cognitive Models  
 
-⚙️ Actuators, Sensors & Mechatronics
+AI agents automatically generate, update, and maintain:
 
-🦾 Locomotion, Balance & Movement
+✔ Chapters  
+✔ Diagrams  
+✔ Example problems  
+✔ Practice exercises  
+✔ Urdu + English explanations  
 
-🪫 Energy Systems & Power Design
+---
 
-🧩 Robotics Algorithms & Control
+## 📂 Repository Structure
 
-💡 Intelligent Agents & Cognitive Models
-
-The project uses AI agents to generate, update, and maintain textbook content such as chapters, examples, diagrams, and practice exercises.
-
-📂 Repository Structure
-📁 physical-ai-humanoid-robotics/
+physical-ai-humanoid-robotics/
 │
-├── 📘 docs/                # Docusaurus book chapters
-├── 🌐 website/             # Next.js + TailwindCSS website
-├── 🤖 agents/              # Claude/Qwen agent configs & skills
-├── 🧠 workflows/           # Automated writing and generation flows
-├── 📊 assets/              # Book diagrams, images, figures
-└── README.md               # Project overview
+├── docs/ # Docusaurus book chapters
+├── website/ # Next.js + TailwindCSS site
+├── agents/ # Claude/Qwen agent configs & skills
+├── workflows/ # Automated writing & generation flows
+├── assets/ # Book diagrams, illustrations
+└── README.md # Project overview
 
-✨ Key Features
-🔹 1. AI-Native Textbook
+---
 
-Every chapter is generated and maintained by AI agents with clear specifications.
+## ✨ Key Features
 
-🔹 2. Multi-Agent Writing System
+### 🔹 AI-Native Textbook  
+Chapters are generated, updated, and maintained by AI agents.
 
-Uses Claude Code, Qwen, and helper subagents for:
+### 🔹 Multi-Agent Writing System  
+Supports:  
+- Chapter writing  
+- Illustration generation  
+- Code examples  
+- Urdu/English translation  
+- Automatic content updates  
 
-Chapter writing
+### 🔹 Complete Robotics Curriculum  
+From actuators & sensors to humanoid locomotion.
 
-Illustration generation
+### 🔹 Hands-on Tutorials  
+Includes hardware guidance, simulations, and coding samples.
 
-Example problems
+### 🔹 Next.js Website  
+A clean and responsive website to browse the entire textbook.
 
-Urdu/English translations
+---
 
-Updating and maintaining content
+## 📘 Chapters Included
 
-🔹 3. Complete Robotics Curriculum
+- ✔ Introduction to Physical AI  
+- ✔ Humanoid Robotics Architecture  
+- ✔ Sensors, Actuators & Control  
+- ✔ Motion Planning & Locomotion  
+- ✔ Safety, Ethics & Future of Embodied AI  
+- ✔ Labs, Tutorials & Sample Projects  
 
-From basics of actuators to advanced humanoid locomotion.
+---
 
-🔹 4. Hands-on Tutorials
+## 🛠 Tech Stack
 
-Code examples, simulations, and hardware notes.
+- **Next.js + TailwindCSS**  
+- **Docusaurus**  
+- **Claude Code / Qwen / OpenAI Agents**  
+- **TypeScript**  
+- **GitHub Actions (CI/CD)**  
 
-🔹 5. Next.js Website
+---
 
-A modern, responsive website showcasing the entire textbook.
+## 🧪 How to Run
 
-📘 Chapters Included
-
-✔ Introduction to Physical AI
-✔ Humanoid Robotics Architecture
-✔ Sensors, Actuators & Control
-✔ Motion Planning & Locomotion
-✔ Safety, Ethics & Future of Embodied AI
-✔ Labs, Tutorials & Sample Projects
-
-🛠 Tech Stack
-
-Next.js + TailwindCSS — website
-
-Docusaurus — textbook platform
-
-Claude Code / Qwen / OpenAI — multi-agent writing
-
-TypeScript — core codebase
-
-GitHub Actions — automation
-
-🧪 How to Run
-# Install dependencies for both backend and frontend
+### Install Dependencies
+```bash
 npm install
+Run the Backend Server
+npm run start   # Express server on port 3000
 
-# For the backend server:
-npm run start  # Runs the Express.js server on port 3000
-
-# For the Docusaurus textbook frontend (in a separate terminal):
+Run the Docusaurus Textbook
 cd Physical-AI-Humanoid-Robotics
 npm install
-npm run start  # Runs the Docusaurus site on port 3000
+npm run start   # Runs on port 3000
 
-# To run both simultaneously, you'll need to change one of the ports
-# Or use a process manager like concurrently:
+Run Both Together
 
-# Install concurrently globally
+(Requires concurrently)
+
 npm install -g concurrently
 
-# Run both at the same time (in root directory)
-concurrently "npm run dev" "cd Physical-AI-Humanoid-Robotics && npm run start"
+concurrently "npm run dev"
+ "cd Physical-AI-Humanoid-Robotics && npm run start"
 
 🌐 View the Textbook Online
-The textbook is deployed to GitHub Pages and can be viewed at:
-https://vandanachohan.github.io/hackatone-1/
 
-Note: The site will be available after the GitHub Actions workflow completes.
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/33323e4b-bf8e-4275-ab0e-42f648c4333b" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4371c733-e618-4978-8c48-c2249f8af5d8" />
+
+GitHub Pages deployment:
+👉 https://vandanachohan.github.io/hackatone-1/
+
+YouTube Demo Video Presentation Link
+https://youtu.be/LxsXVjans14
+
+(Available after GitHub Actions build completes.)
 
 🤝 Contributing
 
 Contributions are welcome!
-You can submit:
+You may contribute:
 
 New chapters
 
-Fixes or improvements
+Fixes and improvements
 
-Diagrams and illustrations
+Diagrams & illustrations
 
-Tutorials/Examples
+Tutorials / Exercises
 
-Please open an Issue before starting major changes.
+Please open an Issue before major changes.
 
 📜 License
 
 This project is licensed under the MIT License.
 
-🔖 GitHub Tags (Copy & Paste)
+🔖 GitHub Tags
 physical-ai
 humanoid-robotics
 robotics-textbook
@@ -150,3 +158,10 @@ claude-code
 openai
 multi-agent-system
 robotics-education
+
+✨ A GitHub banner  
+✨ Shields.io badges (Build • Version • License • Stars)  
+✨ A professional project logo  
+✨ Installation screenshots  
+
+Just tell me — I’ll add them! 🚀💙
