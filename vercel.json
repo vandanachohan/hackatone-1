@@ -1,6 +1,21 @@
 {
-  "rootDirectory": "Physical-AI-Humanoid-Robotics",
-  "buildCommand": "node ../update-docusaurus-config.js && npm run build",
-  "outputDirectory": "build",
-  "framework": "docusaurus"
+  "version": 2,
+  "builds": [
+    {
+      "src": "Physical-AI-Humanoid-Robotics/package.json",
+      "use": "@vercel/static-build",
+      "config": {
+        "distDir": "build"
+      }
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/Physical-AI-Humanoid-Robotics/build/$1"
+    }
+  ],
+  "github": {
+    "silent": true
+  }
 }
